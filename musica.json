@@ -1,0 +1,26 @@
+{
+    "CD-MUSICALE":{
+        "nome casa discografica":"jpm production",
+        "anno":2018,
+        "artisti":["asake","rema","davido"],
+        "categoria musicale":"afro-pop",
+        "canzoni":[
+            {
+              "traccia":1,
+              "durata":"3min23",
+              "titolo":"calm down"
+            },
+            {
+                "traccia":2,
+                "durata":"4min05",
+                "titolo":"girl"
+            },
+            {
+                "traccia":3,
+                "durata":"4min32",
+                "titolo":"freedowm"
+            }
+        ]
+    }
+
+}

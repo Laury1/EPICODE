@@ -1,14 +1,19 @@
 {
-   "libro" :{"capitoli":30, "genere":"poesia", autore":[ 
-   {"nome":"Laurette", "indirizzo":"bes@.it"}
-   {"nome:Alessandro", "indirizzo":ale@yahoo.fr}
-   {"nome":"Renato", "indirizzo":renato@yahoo.fr}
+   "libro":{
+    "titolo":"la vita",
+   "capitoli":["1-le mie scelte","2-le prove della vita","3-le difficolta"], 
+   "genere":"poesia",
+   "autore":[ 
+   {"nome":"Laurette", 
+   "indirizzo":"bes@studio.it"},
+   {"nome":"Alessandro","indirizzo":"ale@yahoo.fr"},
+   {"nome":"Renato", "indirizzo":"renato@yahoo.fr"}
 ]
            }
 
   }
 
-    }
+    
 
     
 	

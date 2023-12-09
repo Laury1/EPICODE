@@ -1,0 +1,26 @@
+{
+    "RUBRICA-1":{
+    "first-name":"bessi",
+    "last-name":"laurette",
+    "tel":3523558742,
+    "e-mail":"laurettebrs@gmail.com",
+    "job":"ingeniere",
+    "hobby":["sport","lettura","cucina"],
+    "address":"via Tamburini",
+    "favorite colour":["rosso","blue","viola"]
+     },
+
+"RUBRICA-2":{
+    
+        "first-name":"rossi",
+        "last-name":"renato",
+        "tel":3722467742,
+        "e-mail":"rossi@gmail.com",
+        "job":"medico",
+        "hobby":["sport","viaggio","cucina"],
+        "address":"via giardini 2",
+        "favorite colour":"nero"
+
+}
+
+}
